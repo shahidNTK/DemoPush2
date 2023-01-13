@@ -21,6 +21,9 @@ public class Main {
 	private void add (double a , int b, int c){
 	}
 	
+	private void add (double a , double b, int c){
+	}
+	
 	
 
 }
