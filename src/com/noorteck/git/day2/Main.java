@@ -17,5 +17,10 @@ public class Main {
 	
 	private void add (int a , int b, int c){
 	}
+	
+	private void add (double a , int b, int c){
+	}
+	
+	
 
 }
